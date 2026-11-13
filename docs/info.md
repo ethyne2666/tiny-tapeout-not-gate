@@ -1,20 +1,11 @@
-<!---
-
-This file is used to generate your project datasheet. Please fill in the information below and delete any unused
-sections.
-
-You can also include images in this folder and reference them in the markdown. Each image must be less than
-512 kb in size, and the combined size of all images must be less than 1 MB.
--->
-
 ## How it works
 
-Explain how your project works
+This project demonstrates a NOT gate. It has one input, A, and one output, NOT A. The output is the opposite of the input: when A is 0, the output is 1; when A is 1, the output is 0.
 
 ## How to test
 
-Explain how to use your project
+Start the Wokwi simulation and switch the input between 0 and 1. Check that the output shows the opposite value.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+None.
